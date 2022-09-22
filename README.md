@@ -1,7 +1,7 @@
 # Bot IP Detector
 
-Atlas is an automation tests project for Insider QA Team. This project created with Selenium and Python, also using some
-pip packages for parallelize run, image comparing, SQL connections and more. Let's dive into it!
+BotDetector is an automation project to detect bot IPs for Optimus. This project created with Selenium and Python, also using some
+pip packages for parallelize run. Let's dive into it!
 
 ### Requirements
 
@@ -12,7 +12,7 @@ pip packages for parallelize run, image comparing, SQL connections and more. Let
 ### How to clone / install BotDetector
 
 Open your terminal, go to your favorite directory for projects, type  
-`git clone https://github.com/mfurkandemiral/botdetector.git`  
+`https://github.com/mfurkandemiral/BotDetector.git`  
 and hit enter. BotDetector will be cloned current directory.
 
 After cloning, open Bot Detector project with PyCharm IDE and wait for first indexing progress. When indexing is finished, IDE
