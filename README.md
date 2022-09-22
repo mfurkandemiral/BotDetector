@@ -21,12 +21,12 @@ virtual environment and automatically installs required pip packages. From this 
 one more thing, described in next step.
 <hr>
 
-**The sheet name must be Sheet1**
+**The sheet name must be [Sheet1](https://github.com/mfurkandemiral/BotDetector/blob/d86c02940f7b929cdb0151f371b54cb51168b23c/tests/bot_detector.py#L24)**
 
 ![image](https://user-images.githubusercontent.com/105215223/191691778-362798bd-85cb-409f-b190-a26f89b49874.png)
 <hr>
 
-**You should put your Excel file in the files folder and edit its name here.**
+**You should put your Excel file in the files folder and edit its name [here](https://github.com/mfurkandemiral/BotDetector/blob/d86c02940f7b929cdb0151f371b54cb51168b23c/tests/bot_detector.py#L16).**
 
 ![image](https://user-images.githubusercontent.com/105215223/191692897-221b6362-ff86-460a-b50b-48bcaf24c09b.png)
 
@@ -34,7 +34,8 @@ one more thing, described in next step.
 ![image](https://user-images.githubusercontent.com/105215223/191701427-1b73e9f1-ea63-432f-9106-46474fc0249a.png)
 
 <hr>
-**You should edit the name of the strings found column here.**
+
+**You should edit the name of the strings found column [here](https://github.com/mfurkandemiral/BotDetector/blob/d86c02940f7b929cdb0151f371b54cb51168b23c/tests/bot_detector.py#L24).**
 
 ![image](https://user-images.githubusercontent.com/105215223/191705425-0ab98498-9cbe-4fd8-9b47-2f458bb018f7.png)
 ![image](https://user-images.githubusercontent.com/105215223/191692715-6fcc0251-59c8-42bb-89a8-50ca486314a5.png)
@@ -46,7 +47,7 @@ Test files are located in `tests` directory. Open `bot_detector.py` file, right 
 pytest progress will be starts without opening the browser.
 <hr>
 
-**Note:** You can add the words you want to search by separating them with commas.
+**Note:** You can add the [words](https://github.com/mfurkandemiral/BotDetector/blob/d86c02940f7b929cdb0151f371b54cb51168b23c/tests/bot_detector.py#L18) you want to search by separating them with commas.
 
 ![image](https://user-images.githubusercontent.com/105215223/191703589-9bccfee2-8e15-4aba-ad76-ef43d464e08a.png)
 <hr>
