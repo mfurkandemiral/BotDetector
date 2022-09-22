@@ -25,13 +25,17 @@ one more thing, described in next step.
 
 ![image](https://user-images.githubusercontent.com/105215223/191691778-362798bd-85cb-409f-b190-a26f89b49874.png)
 <hr>
+
 **You should put your Excel file in the files folder and edit its name here.**
+
 ![image](https://user-images.githubusercontent.com/105215223/191692897-221b6362-ff86-460a-b50b-48bcaf24c09b.png)
 
 ![image](https://user-images.githubusercontent.com/105215223/191701823-ee9117b3-483c-49ac-a718-9ed7dee59f6f.png)
 ![image](https://user-images.githubusercontent.com/105215223/191701427-1b73e9f1-ea63-432f-9106-46474fc0249a.png)
+
 <hr>
 **You should edit the name of the strings found column here.**
+
 ![image](https://user-images.githubusercontent.com/105215223/191705425-0ab98498-9cbe-4fd8-9b47-2f458bb018f7.png)
 ![image](https://user-images.githubusercontent.com/105215223/191692715-6fcc0251-59c8-42bb-89a8-50ca486314a5.png)
 <hr>
